@@ -1,0 +1,5 @@
+- 日本語 | nihongo | japonés
+- スペイン語 | supeingo | español
+- 英語 | eigo | inglés
+- 日本人 | nihonjin | japonés (persona)
+- アルゼンチン人 | aruzenchinjin | argentino

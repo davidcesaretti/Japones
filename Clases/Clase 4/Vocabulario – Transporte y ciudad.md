@@ -1,0 +1,8 @@
+- 電車 | densha | tren
+- バス | basu | colectivo
+- 駅 | eki | estación
+- 空港 | kuukou | aeropuerto
+- 東京 | Toukyou | Tokio
+- 京都 | Kyouto | Kioto
+- 新宿 | Shinjuku | Shinjuku
+- 秋葉原 | Akihabara | Akihabara
