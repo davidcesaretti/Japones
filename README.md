@@ -64,44 +64,6 @@ Quiero poder:
 
 ---
 
-## 📁 Estructura del repo
-
-> Esta estructura está pensada para que sea fácil encontrar todo y mantener consistencia.
-
-📦 japanese-classes
-├─ 📚 clases/
-│ ├─ 2026-01-xx-clase-01.md
-│ ├─ 2026-01-xx-clase-02.md
-│ └─ ...
-├─ 🈴 kana/
-│ ├─ hiragana.md
-│ ├─ katakana.md
-│ └─ practica-lectura.md
-├─ 🧩 gramatica/
-│ ├─ particulas.md
-│ ├─ verbos.md
-│ ├─ preguntas.md
-│ └─ estructuras-utiles.md
-├─ 🗣️ conversacion/
-│ ├─ frases-supervivencia.md
-│ ├─ presentaciones.md
-│ ├─ restaurante.md
-│ ├─ transporte.md
-│ └─ compras.md
-├─ 👂 listening/
-│ ├─ ejercicios.md
-│ └─ recursos.md
-├─ 🧳 japon-viaje/
-│ ├─ plan.md
-│ ├─ checklist-frases.md
-│ └─ situaciones.md
-└─ ✅ progreso/
-├─ objetivos.md
-└─ checklist.md
-
-
----
-
 ## ✅ Sistema de progreso (simple y efectivo)
 
 ### 🔥 Checklist semanal
@@ -166,14 +128,6 @@ Viajar a Japón no es solo “ver lugares”.
 Quiero poder **vivirlo de verdad**, sentirme cómodo, conectar con la gente y moverme con confianza.
 
 Este repo es mi forma de asegurar que llego allá con herramientas reales. 🇯🇵✨
-
----
-
-## 🔗 Recursos (para ir completando)
-- 📺 Canales / playlists: _pendiente_
-- 🎧 Audios: _pendiente_
-- 📖 Diccionarios / apps: _pendiente_
-- 🧠 Anki decks: _pendiente_
 
 ---
 
