@@ -110,18 +110,6 @@ La meta es **automatizar**, no acumular teoría.
 
 ---
 
-## 🧰 Cómo uso este repo
-
-- Cada clase va en `📚 clases/` con fecha y número.
-- Lo importante se consolida en:
-  - `🈴 kana/`
-  - `🧩 gramatica/`
-  - `🗣️ conversacion/`
-- Todo lo “listo para usar en Japón” se guarda en `🧳 japon-viaje/`.
-- El progreso real se trackea en `✅ progreso/`.
-
----
-
 ## 🌸 Motivación
 
 Viajar a Japón no es solo “ver lugares”.  
