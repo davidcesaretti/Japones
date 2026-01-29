@@ -14,7 +14,7 @@ Acá voy a guardar:
 - 🗣️ **Práctica oral (frases y diálogos)**
 - 👂 **Ejercicios de oído**
 - ✍️ **Hiragana/Katakana**
-- 📚 **Gramática esencial sin morir en el intento**
+- 📚 **Gramática esencial**
 - 🧳 **Japonés de viaje** (lo que realmente necesito allá)
 
 ---
@@ -128,14 +128,6 @@ Viajar a Japón no es solo “ver lugares”.
 Quiero poder **vivirlo de verdad**, sentirme cómodo, conectar con la gente y moverme con confianza.
 
 Este repo es mi forma de asegurar que llego allá con herramientas reales. 🇯🇵✨
-
----
-
-## 📌 Estado actual
-- 🟦 Kana: en progreso
-- 🟩 Gramática básica: en progreso
-- 🟨 Conversación: iniciando
-- 🟥 Kanji: mínimo / opcional
 
 ---
 
