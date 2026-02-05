@@ -11,10 +11,10 @@
 
 ## 💍 Esposo / esposa de otra persona
 
-| Español | Japonés | Romaji |
-|------|------|------|
-| esposo | ご主人 | goshujin |
-| esposa | 奥さん | okusan |
+| Español | Japonés | Romaji   |
+| ------- | ------- | -------- |
+| esposo  | ご主人     | goshujin |
+| esposa  | 奥さん     | okusan   |
 
 ---
 
