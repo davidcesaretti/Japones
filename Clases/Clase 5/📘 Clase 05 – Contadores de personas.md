@@ -14,3 +14,31 @@
 > 家族は5人です  
 > kazoku wa go-nin desu  
 > Somos 5 en la familia
+
+heya ga mutsu arimasu
+terebi futatsu arimasu
+beddo mo futatsu
+
+
+hitotsu
+futatsu
+mittsu
+yottsu
+itsutsu
+muttsu
+
+doko ga imasu ka?
+persona wa doko ni imasu ka?
+lugar ni imasu
+
+persona wa doko desu ka?
+lugar ni iru yo
+
+persona san wa imasu ka?
+imasen ne
+tabun lugar
+
+
+persona san imasu ka?
+inai desu ne
+
