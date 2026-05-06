@@ -1,0 +1,23 @@
+
+
+- densha = tren
+- chikatetsu = subte
+- basu = colectivo
+- takushii = taxi
+- hikouki = avión
+- jitensha = bicicleta
+- eki = estación
+- kuukou = aeropuerto
+- norimasu = subirse
+- orimasu = bajarse
+- ikimasu = ir
+- arukimasu = caminar
+- hayai = rápido
+- yasui = barato
+- takai = caro
+- benri = conveniente
+- fuben = inconveniente
+- kara = desde / porque
+- de = en / por medio de
+- ni = a (subirse)
+- o = de (bajarse)
