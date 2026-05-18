@@ -15,7 +15,6 @@
 
 - **Mercari** = plataforma de compra/venta de usados en Japón
 - **Booking** = alojamientos tipo hotel
-- **Airbnb** = alojamientos privados / departamentos
 
 ### Lugares / contexto útil
 
